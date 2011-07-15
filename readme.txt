@@ -11,6 +11,10 @@ SimpleComments is a fully customisable, easy to use comment system for your word
 
 PLEASE NOTE THIS IS IN BETA AND SHOULD NOT BE USED OTHER THAN FOR TESTING AND EVALUATING!
 
+PLEASE COULD ANY USERS WISHING TO LEAVE FEEDBACK FROM TESTING POST THEM IN THE WORDPRESS FORUM HERE: http://wordpress.org/support/topic/please-test-my-plugin
+ANY FEEDBACK WOULD BE REALLY APPRECIATED.
+THANKS ALL.
+
 SimpleComments is an easy to use wordpress plugin that allows users and developers to add an effective system for people to comment on their posts. SimpleComments adds a page to the administration area with settings to completely change how the comments work. For users with previous coding experience, there is an easy to edit CSS file to completely alter the look of the comment tree.
 
 For developers, the entire plugin is documented allowing the whole system to change as per the users needs, but for those who have no coding experience, the system works right out of the box, giving an easy to use interface for users to comment on wordpress posts.
