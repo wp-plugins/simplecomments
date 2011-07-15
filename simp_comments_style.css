@@ -1,0 +1,63 @@
+#vr{ /* This is how the nested comments show the vertical lines, they are mereiy containers
+		around the whole comment that have a margin on the left and a left border, the more
+		levels of nesting, the more #vr containers so more lines on the left. */
+	border-left: 1px solid #CCC;
+	margin-left: 5px;
+}
+#eip{ /* The textarea for when users edit their comments in place */
+	margin: 0px;
+	padding: 3px;
+	width: 360px;
+	height: 90px;
+	margin-bottom: 7px;
+}
+#commentbox{ /* The textarea to add new comments */
+	margin: 0px;
+	padding: 3px;
+	width: 420px;
+	height: 100px;
+}
+#commentboxtext{ /* The box that 'reply to..' text is displayed in */
+	margin-bottom: 3px;
+}
+#commentboxcontainer{ /* A container for the comment box */
+	margin: 2px;
+	margin-bottom: 5px;
+	padding: 2px;
+}
+#commentboxcontainerleft{ /* The left side of the comment box container, the user's avatar is displayed here */
+	float: left;
+	width: 40px;
+	padding: 2px;
+	padding-right: 7px;
+	margin-bottom: 7px;
+}
+#commentboxcontainerright{ /* The right side of the comment box container, the text area is here */
+	float: left; 
+	width: 490px;
+	margin-bottom: 7px;
+}
+#commentLeft{ /* The left side of the comment where the avatar is displayed */
+	float: left;
+	width: 40px;
+	padding: 5px;
+}
+#commentRight{ /* The right side where the text and info is displayed */
+	float: left;
+	width: 400px;
+	padding: 5px;
+	border-top: 1px solid #999;
+}
+#commentRight p{ /* The actual comment contents */
+	font-size: 16px;
+	margin: 0px;
+	padding: 0px;
+	line-height: 18px;
+}
+#commentRight h4{ /* The comment information and links */
+	color: #666;
+	font-weight: normal;
+	font-size: 15px;
+	margin: 0px;
+	padding: 0px;
+}
