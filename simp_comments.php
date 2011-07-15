@@ -2,7 +2,7 @@
 /*
 Plugin Name: SimpleComments
 Description: SimpleComments is a fully customisable, easy to use comment system for your wordpress site.
-Version: 1.2
+Version: 1.3.1
 Author: George Sephton
 License: Creative Commons Attribution-ShareAlike (http://creativecommons.org/licenses/by-sa/3.0/)
 
