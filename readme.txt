@@ -3,11 +3,13 @@ Contributors: sephers2
 Tags: comments, simple, css, customisable
 Requires at least: 3.1.4
 Tested up to: 3.1.4
-Stable tag: 1.3
+Stable tag: 1.3.1
 
 SimpleComments is a fully customisable, easy to use comment system for your wordpress site.
 
 == Description ==
+
+PLEASE NOTE THIS IS IN BETA AND SHOULD NOT BE USED OTHER THAN FOR TESTING AND EVALUATING!
 
 SimpleComments is an easy to use wordpress plugin that allows users and developers to add an effective system for people to comment on their posts. SimpleComments adds a page to the administration area with settings to completely change how the comments work. For users with previous coding experience, there is an easy to edit CSS file to completely alter the look of the comment tree.
 
@@ -49,6 +51,9 @@ When installing you may get a notice saying something about headers in a file ca
 Just to say this isn't the plugin's fault and it will have installed if you go back to the plugin page but if you want to ensure the notice doesn't come again, open that file 'pluggable.php', scroll to the bottom and if there's a missing `?>` then add it. 
 
 == Changelog ==
+
+= 1.3.1 =
+* Updated readme.txt
 
 = 1.3 =
 * Updated readme.txt
